@@ -1,5 +1,11 @@
 # HorizonsIVA-Project :: Change Log
 
+* 2016-0918: 0.2_Alpha_GitHubIsBroken (Modsojoy) for KSP 0.7.3
+	+ Overhauled Props CFG
+	+ Moved Visors in C2B Cockpit
+	+ Added BlueDog Design Bureau Lunar Module Cockpit with ASET Props.
+	+ Starting CSM IVA Soon™.
+	+ Not releasing Source still, so dont download the Source.zip, it will just Pull the master which is seriously Outdated.
 * 2016-0831: 0.02 (Modsojoy) for KSP 0.7.3 PRE-RELEASE
 	+ Check Recent 12:49-12:51AM 8/30/16-9/1/16 Master Commit For Update info
 	+ Quick rundown -
