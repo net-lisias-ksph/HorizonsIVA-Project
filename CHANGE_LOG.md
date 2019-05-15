@@ -1,5 +1,7 @@
 # HorizonsIVA-Project :: Change Log
 
+* 2016-0909: 0_Githubsucks (Modsojoy) for KSP 0.7.3 PRE-RELEASE
+	+ God damnit why is github so broken, The current version tag is 0.2_Alpha_GitHubIsBroken but this is still on top, and it put the Most recent release under 0.1_Alpha
 * 2016-0918: 0.2_Alpha_GitHubIsBroken (Modsojoy) for KSP 0.7.3
 	+ Overhauled Props CFG
 	+ Moved Visors in C2B Cockpit
